@@ -21,7 +21,7 @@ This is a web application for Cucina pizza restaurant.It is a pizza selling vent
 * markdown
 ## Setup/Installation Requirements
 * Create an account on Github
-* Fork the repository from Github:
+* Fork the repository from Github:(https://github.com/Anaritahmburu/Cucina-pizza)
 * Clone the link
 * Open the link from where the repository is saved
 
